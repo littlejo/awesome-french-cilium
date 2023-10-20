@@ -20,6 +20,7 @@
 
 * [K3S et Cilium rapide et facile](https://blog.zwindler.fr/2023/09/01/k3s-et-cilium-rapide-et-facile/)
 * [K3S ajouter monitoring](https://blog.zwindler.fr/2023/09/15/k3s-ajouter-monitoring/)
+* [Migration du routage de cilium de iptables vers eBPF... à chaud !](https://blog.zwindler.fr/2023/10/20/migration-routage-cilium-iptables-ebpf/)
 
 ### Lydra
 
