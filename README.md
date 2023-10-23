@@ -65,3 +65,9 @@
 ### meetup Grafana
 
 * [Grafana & Cilium: De l’observabilité avec des super-pouvoirs - Youssef Azrak @ Isovalent](https://www.youtube.com/watch?v=n2YJhFOQKyY)
+
+## Podcasts
+
+### Electro Monkeys
+
+* [Cilium, plus qu’un CNI Kubernetes grâce à eBPF avec Robin Hahling et Raphaël Pinson](https://medium.com/electro-monkeys/cilium-plus-quun-cni-kubernetes-gr%C3%A2ce-%C3%A0-ebpf-avec-robin-hahling-et-rapha%C3%ABl-pinson-b50877b1eae1)
