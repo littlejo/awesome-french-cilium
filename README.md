@@ -28,6 +28,8 @@
 
 ### Joseph Ligier
 
+#### Cilium dans EKS
+
 * [Introduction à Cilium dans EKS](https://medium.com/@littel.jo/mon-%C3%A9t%C3%A9-avec-cilium-et-eks-partie-1-99a66ed6671f)
 * [Installation avec helm](https://medium.com/@littel.jo/mon-%C3%A9t%C3%A9-avec-cilium-et-eks-partie-2-ea8ba7a9dcae)
 * [ENI et delegation de préfixe](https://medium.com/@littel.jo/mon-%C3%A9t%C3%A9-avec-cilium-et-eks-partie-3-2e3d6882e643)
@@ -35,6 +37,12 @@
 * [Mode overlay](https://medium.com/@littel.jo/mon-%C3%A9t%C3%A9-avec-cilium-et-eks-partie-5-118814fd100c)
 * [Mode sans kube-proxy](https://medium.com/@littel.jo/mon-%C3%A9t%C3%A9-avec-cilium-et-eks-partie-6-a393c9701c12)
 * [Bilan de la série](https://medium.com/@littel.jo/mon-%C3%A9t%C3%A9-avec-cilium-et-eks-%C3%A9pilogue-e563e40aeab2)
+
+#### Cilium dans AKS
+
+* [Introduction à Cilium avec AKS et à Terraform](https://medium.com/@littel.jo/d%C3%A9ployer-cilium-et-aks-avec-terraform-partie-1-c74930cf8f0e)
+
+#### News
 
 * [Sortie de Cilium 1.14](https://medium.com/@littel.jo/sortie-de-cilium-1-14-ce22d2bfd8d9)
 
