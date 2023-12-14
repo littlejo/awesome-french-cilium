@@ -41,6 +41,7 @@
 #### Cilium dans AKS
 
 * [Introduction à Cilium avec AKS et à Terraform](https://medium.com/@littel.jo/d%C3%A9ployer-cilium-et-aks-avec-terraform-partie-1-c74930cf8f0e)
+* [Observation de Cilium managé par Azure](https://medium.com/@littel.jo/d%C3%A9ployer-cilium-et-aks-avec-terraform-partie-2-6b82ed8daf30)
 
 #### News
 
