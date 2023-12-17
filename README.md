@@ -71,6 +71,10 @@
 
 * [Comprendre eBPF, ses applications et ses limites (Paul Chaignon)](https://www.youtube.com/watch?v=ZIwvoZId_g4&t=1s)
 
+### Wescale
+
+* [Meetup Ciliup & Sysdig Secure](https://www.youtube.com/live/C1YkK_C6wvQ?si=7BEAM6Jlmzz0xvaf)
+
 ### meetup Grafana
 
 * [Grafana & Cilium: De l’observabilité avec des super-pouvoirs - Youssef Azrak @ Isovalent](https://www.youtube.com/watch?v=n2YJhFOQKyY)
