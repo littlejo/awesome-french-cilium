@@ -73,7 +73,7 @@
 
 ### Wescale
 
-* [Meetup Ciliup & Sysdig Secure](https://www.youtube.com/live/C1YkK_C6wvQ?si=7BEAM6Jlmzz0xvaf)
+* [Meetup Cilium & Sysdig Secure](https://www.youtube.com/live/C1YkK_C6wvQ?si=7BEAM6Jlmzz0xvaf)
 
 ### meetup Grafana
 
