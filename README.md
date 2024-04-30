@@ -78,6 +78,11 @@
 ### meetup Grafana
 
 * [Grafana & Cilium: De l’observabilité avec des super-pouvoirs - Youssef Azrak @ Isovalent](https://www.youtube.com/watch?v=n2YJhFOQKyY)
+* 
+
+### FRnOG 2024
+
+* [FRnOG 39 - Paul Chaignon : Cilium - Le meilleur de Linux pour vos réseaux Kubernetes](https://www.dailymotion.com/video/x8xm6kq)
 
 ## Podcasts
 
